@@ -1,5 +1,5 @@
 # WINE-QUALITY-CLASSIFICATION
-ƯINE-CLASSIFICATION.ipynb : ipython script (jupyter notebook)
+WINECLASSIFICATION.ipynb : ipython script (jupyter notebook)
 
 wineclassification.py : coding script
 
